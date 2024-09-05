@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background: url("./assets/bg.jpg");
+    background-size: cover;
+    box-sizing: border-box;
+    background-repeat: no-repeat;
+    
+}
